@@ -23,11 +23,3 @@
 
 
 
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sevdeaydiin/sevdeaydiin/output/snake.svg" alt="Snake animation" />
-
-###
