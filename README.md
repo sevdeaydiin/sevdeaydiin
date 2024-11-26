@@ -1,10 +1,10 @@
-<h1 align="center">iOS Developer</h1>
+<h1 align="left">iOS Developer 👩🏻‍💻</h1>
 
 ## I am passionate about staying up-to-date with evolving iOS technologies and best practices, thriving in environments that value innovation and continuous improvement.
 
-- 🌱 I’m currently learning **SwiftUI & UIKit & ML**
+- 💚 I’m currently learning **SwiftUI & UIKit & ML**
 
-<h4 align="left">My skills</h4>
+<h4 align="left">✨ My skills</h4>
 
 - Kingfisher
 - SnapKit
@@ -15,7 +15,7 @@
 - SDWebImage
 
 
-<h4 align="left">Architecture Knowledge</h4>
+<h4 align="left">🛠️ Architecture Knowledge</h4>
 
 - MVVM
 - MVC
