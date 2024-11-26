@@ -2,7 +2,7 @@
 
 ## I am passionate about staying up-to-date with evolving iOS technologies and best practices, thriving in environments that value innovation and continuous improvement.
 
-- 🌱 I’m currently learning **SwiftUI & UIKit and ML**
+- 🌱 I’m currently learning **SwiftUI & UIKit & ML**
 
 <h4 align="left">My skills</h4>
 
